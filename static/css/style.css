@@ -1,0 +1,41 @@
+html, body {
+    height:100%;
+    padding: 0;
+    margin: 0;
+    color: rgb(2, 2, 2);
+  }
+html{
+    background-color: rgb(17, 182, 39);
+}
+
+.container {
+    background-image: url('../img/jkusa.jpg');
+    background-size: repeat;
+}
+body {
+    background: rgba(0, 0, 0, 0.466);
+}
+
+.card, .image {
+    border-radius: 5%;
+}
+
+.bio {
+    border-radius: 2%;
+    background-color: green;
+}
+
+.title_bar {
+    background-color: green;
+    padding: none;
+}
+
+.jkuat {
+    font-size: large;
+    font-style: italic;
+}
+
+#home-content{
+    text-align: center;
+    padding-top: 20%;
+}
